@@ -1,0 +1,38 @@
+.todo__form{
+  margin: 1rem;
+}
+
+.todo__form form{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+   
+}
+
+.todo__form_group{
+   width: 45%;
+   margin: 10px 0;
+   
+}
+
+.todo__form_group input{
+    display: block;
+    width: 80%;
+    padding: 8px 10px;
+    outline: none;
+    border: 1px solid gray;
+}
+
+.todo__form_btn{
+   outline: none;
+   border: none;
+   display: block;
+   width: 150px;
+   padding: 10px;
+   margin: 10px;
+   color: white;
+   font-family: verdana, sans-serif;
+   background: rgba(35, 82, 170, 0.842);
+   font-weight: 800;
+}

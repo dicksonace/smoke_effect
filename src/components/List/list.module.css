@@ -1,0 +1,27 @@
+.todo__list{
+ margin: 1rem;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ text-align: center;
+}
+
+.todo__list_table{
+    border: 1px solid gray;
+}
+
+.todo__list_table th , td{
+    border: 1px solid gray; 
+}
+
+.todo__list_table__btn{
+    border: none;
+    outline: none;
+    color: white;
+    font-family: verdana, sans-serif;
+    font-family: 700;
+    background: rgb(202, 81, 81);
+    padding: 8px 15px;
+    cursor: pointer;
+}
+

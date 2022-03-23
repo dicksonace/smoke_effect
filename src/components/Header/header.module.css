@@ -1,0 +1,15 @@
+.todo__header{
+    width: 100%;
+    height: 70px;
+    background: rgba(35, 82, 170, 0.842);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.todo__header_h1{
+    color: white;
+    font-family:  Verdana, sans-serif;
+    font-family: 600;
+}

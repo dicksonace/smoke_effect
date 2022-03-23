@@ -1,0 +1,8 @@
+.todo__card{
+    width: 700px;
+    height: auto;
+    /* padding: 1rem; */
+    margin: 2rem 1rem;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+    overflow-x: hidden;
+}
